@@ -1,0 +1,5 @@
+numpy==1.24.3
+sounddevice==0.4.6
+scipy==1.11.1
+noisereduce==1.0.0
+wave==0.0.2
